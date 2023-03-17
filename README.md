@@ -50,7 +50,7 @@ Steps:
     
     -vstsWikiRemoteUrl : vsts wiki clone url <format: https://myacct.visualstudio.com/proj/_git/proj.wiki>,
     
-    -pandocPath :path where pandoc.exe resides <format: C:\pandoc\>,
+    -pandocPath :path where pandoc.exe resides <format: C:\pandoc\\>,
    
     -vstsUserName : vsts username (Please provide PAT token when asked for password),
     
